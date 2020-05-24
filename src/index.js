@@ -4,6 +4,7 @@ import SeasonDisplay from './SeasonDisplay';
 import Spinner from './Spinner';
 
 
+// Webpage Season App
 class App extends React.Component {
     
     state = { lat: null,  errorMessage: ''};
